@@ -24,4 +24,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carolinne-anne)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andrade.annecarolinne@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolinne-anne&theme=transparent&bg_color=000&border_color=32aa92&show_icons=true&icon_color=12928f&title_color=187884&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolinne-anne&theme=transparent&bg_color=000&border_color=32aa92&show_icons=true&icon_color=12928f&title_color=187884&text_color=187884)
