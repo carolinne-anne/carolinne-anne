@@ -3,7 +3,9 @@
 
 ## 🚀 Sobre mim
  Sou formada em Técnico em Manutenção e Suporte em Informática.
+ 
  Apaixonada por tecnologia. 👩‍💻🥰❤
+ 
  Atualmente estou cursando o 1º semestre de **Redes de Computadores**⏳ e também o 1º semestre de **Análise e Desenvolvimento de Sistemas**⏳.
 
 💻 Estou sempre em busca de aprender e aplicar novos conhecimentos. ✍
