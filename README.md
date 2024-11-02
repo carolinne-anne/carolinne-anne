@@ -2,15 +2,19 @@
 # 🙈 Olá, me chamo Anne Carolinne! 👋
 
 ## 🚀 Sobre mim
- Sou formada em Técnico em Manutenção e Suporte em Informática🖥🪛. Apaixonada por tecnologia🥰❤. E atualmente estou cursando o 1º semestre de **Redes de Computadores**⏳ e também o 1º semestre de **Análise e Desenvolvimento de Sistemas**⏳.
-
-💻 Estou sempre em busca de aprender e aplicar novos conhecimentos✍.
+ <ul>
+  <li>Formada em <b>Técnico em Manutenção e Suporte em Informática</b>🖥🪛.</li>
+  <li>E atualmente estou cursando o 1º semestre de <b>Redes de Computadores</b>⏳ e também o 1º semestre de <b>Análise e Desenvolvimento de Sistemas</b>⏳.</li>
+  <li><i>Apaixonada por tecnologia.</i>🥰❤</li>
+ </ul>
+<i>💻 Estou sempre em busca de aprender e aplicar novos conhecimentos✍.</i>
 
 ## 🌱 No momento, estou aprimorando meus conhecimentos em:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+	![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📫 Conecte-se comigo!
 
